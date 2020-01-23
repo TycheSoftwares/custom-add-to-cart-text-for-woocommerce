@@ -1,4 +1,4 @@
-=== Customize Add To Cart Button Text ===
+=== Custom Add To Cart Text For Woocommerce ===
 Contributors: tychesoftwares, shasvat
 Tags: add to cart button , woocommerce
 Author URI: https://www.tychesoftwares.com/
@@ -14,11 +14,13 @@ Plugin is used to change the text of add to cart button on single product page.
 
 == Description ==
 
-It provides the text field on product settings page in advanced tab to enter the text to replace the add to cart button text on single product page.
+It provides the text field on product settings page in advanced tab to enter
+
+the text to replace the add to cart button text on single product page.
 
 Customize Add To Cart Button Text enables to do the following things :
 
-1. It changes the text of add to cart button on single product page.
+1. Enter the text in the field provided in the products settings page in advanced tab which will replace add to cart button text on single product page. 
 
 **Pro Version:**
 
@@ -77,26 +79,26 @@ Customize Add To Cart Button Text enables to do the following things :
 Method 1:
 <ol>
 <li> Go to WordPress Dashboard->Plugins->Add New </li>
-<li> Search Customize Add To Cart Button Text plugin using search option </li>
+<li> Search Custom Add To Cart Text For WooCommerce plugin using search option </li>
 <li> Find the plugin and click Install Now button </li>
 <li> After installation, click on Activate Plugin link to activate the plugin. </li>
 </ol>
 
 Method 2:
 <ol>
-<li> Download the plugin Customize Add To Cart Button Text.zip </li>
-<li> Unpack the Customize Add To Cart Button Text.zip file and extract the Customize Add To Cart Button Text folder </li>
+<li> Download the plugin cat-custom-add-to-cart-button-text.zip </li>
+<li> Unpack the cat-custom-add-to-cart-button-text.zip file and extract the cat-custom-add-to-cart-button-text folder </li>
 <li> Upload the plugin folder to your /wp-content/plugins/ directory </li>
 <li> Go to WordPress dashboard, click on Plugins from the menu </li>
-<li> Locate the auto-add-to-cart-rules and click on Activate link to activate the plugin. </li>
+<li> Locate the Custom Add To Cart Button Text For WooCommerce and click on Activate link to activate the plugin. </li>
 </ol>
 
 Method 3:
 <ol>
-<li> Download the plugin Customize Add To Cart Button Text.zip </li>
+<li> Download the plugin Custom Add To Cart Text For WooCommerce.zip </li>
 <li> Go to WordPress Dashboard-Plugins-Add New </li>
 <li> Click on Upload Plugin link from top </li>
-<li> Upload the downloaded Customize Add To Cart Button Text.zip file and click on Install Now </li>
+<li> Upload the downloaded cat-custom-add-to-cart-button-text.zip file and click on Install Now </li>
 <li> After installation, click on Activate Plugin link to activate the plugin. </li>
 </ol>
 
